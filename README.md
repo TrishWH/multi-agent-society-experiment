@@ -1,6 +1,6 @@
 # Pet License Multi-Agent Experiment
 
-Companion code for the essay *"Your Multi-Agent System Just Recreated Every Org Dysfunction You've Ever Hated."* (Article link TBD.)
+Companion code for the essay *"Your Multi-Agent System Just Recreated Every Org Dysfunction You've Ever Hated."* (Article: https://medium.com/words-in-tech/e5dd9c063310)
 
 Run two versions of the same scenario with 8 AI agents. The only variable: **social structure** (role clarity vs status confusion).
 
